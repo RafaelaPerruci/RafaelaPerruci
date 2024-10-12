@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a full-stack web and mobile developer student<br>📚 I'm currently learning Kotlin<br>🎯 Goals: Working abroad<br>🎲 Fun fact: I'm a cat lady</p>
+<p align="left">✨ I'm a full-stack web and mobile developer student<br>📚 I'm currently learning Kotlin<br>🎯 Goals: Aiming to work abroad<br>🐱 Fun fact: I'm a crazy cat lady</p>
 
 ###
 

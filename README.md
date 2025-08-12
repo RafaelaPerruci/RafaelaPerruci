@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a junior full-stack web developer <br>📚 I'm currently learning docker, kubernates and cloud computing <br>🎯 Goals: Aiming to work abroad<br>🐱 Fun fact: I'm a crazy cat lady</p>
+<p align="left">✨ I'm a junior full-stack web developer React + Spring <br>📚 I'm currently learning docker, kubernates and cloud computing <br>🎯 Goals: Aiming to work abroad<br>🐱 Fun fact: I'm a crazy cat lady</p>
 
 ###
 
